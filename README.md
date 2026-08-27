@@ -1,8 +1,6 @@
-# OutlinedOres-Modern
+# GTNH OutlinedOres
 
 Adds a solid border that matches the color of the ore.
-
-Outlined Ores for GregTech New Horizon modern textures. Compatible with [Modernity-GNTH](https://github.com/ABKQPO/Modernity-GTNH).
 
 ### Little Preview
 ![OutlinedOres-NoOutline](https://github.com/user-attachments/assets/f95007d4-f48e-4669-a3c7-295f29948532)
