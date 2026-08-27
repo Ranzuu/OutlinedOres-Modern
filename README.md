@@ -1,4 +1,4 @@
-# OutlinedOres-Modern
+# GTNH OutlinedOres - Modernity version
 
 Adds a solid border that matches the color of the ore.
 
